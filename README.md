@@ -51,4 +51,9 @@ Days 5 and 10 are interactive and wait for you to type. Day 15 creates a `sample
 
 ## Follow along
 
+I share my progress on these platforms:
+
+- LinkedIn: [Taiye Aisekhame](https://www.linkedin.com/in/taiye-aisekhame/)
+- X: [@TaiyeAisekhame](https://x.com/TaiyeAisekhame)
+
 #100DaysOfCode #101DaysOfCode #Golang
