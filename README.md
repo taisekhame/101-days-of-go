@@ -48,6 +48,8 @@ Days 5 and 10 are interactive and wait for you to type. Day 15 creates a `sample
 | 18 | Channels | day-18-channels |
 | 19 | WaitGroups, batch order processor | day-19-waitgroups |
 | 20 | Select, service health checker | day-20-select-health-checker |
+| 21 | net/http basics, a small JSON API | day-21-net-http-basics |
+
 
 ## Follow along
 
