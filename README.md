@@ -49,6 +49,11 @@ Days 5 and 10 are interactive and wait for you to type. Day 15 creates a `sample
 | 19 | WaitGroups, batch order processor | day-19-waitgroups |
 | 20 | Select, service health checker | day-20-select-health-checker |
 | 21 | net/http basics, a small JSON API | day-21-net-http-basics |
+| 22 | Middleware, POST requests, validation | day-22-middleware-and-post-requests |
+| 23 | REST API design, full CRUD | day-23-rest-api-crud |
+| 24 | Rebuilding the API with Gin | day-24-gin-api |
+| 25 | PostgreSQL with database/sql | day-25-postgresql |
+| 26 | Config and .env files | day-26-config-and-env |
 
 
 ## Follow along
