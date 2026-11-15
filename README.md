@@ -54,7 +54,7 @@ Days 5 and 10 are interactive and wait for you to type. Day 15 creates a `sample
 | 24 | Rebuilding the API with Gin | day-24-gin-api |
 | 25 | PostgreSQL with database/sql | day-25-postgresql |
 | 26 | Config and .env files | day-26-config-and-env |
-
+| 27 | JWT authentication | day-27-jwt-auth |
 
 ## Follow along
 
