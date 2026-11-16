@@ -23,6 +23,7 @@ Days 5 and 10 are interactive and wait for you to type. Day 15 creates a `sample
 - `index.go` is the main example for the day.
 - `practice/` holds extra practice files, one numbered subfolder each, each with its own `index.go`.
 - `notes.md` is on days where I wrote notes instead of code.
+- From Day 28 on, bigger days keep `index.go` as a short entry point and put the rest in an `internal/` folder of packages. Run them with `go run index.go` from inside the day's folder.
 
 ## Progress
 
@@ -55,6 +56,7 @@ Days 5 and 10 are interactive and wait for you to type. Day 15 creates a `sample
 | 25 | PostgreSQL with database/sql | day-25-postgresql |
 | 26 | Config and .env files | day-26-config-and-env |
 | 27 | JWT authentication | day-27-jwt-auth |
+| 28 | Project structure with internal packages | day-28-project-structure |
 
 ## Follow along
 
