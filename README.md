@@ -58,6 +58,7 @@ Days 5 and 10 are interactive and wait for you to type. Day 15 creates a `sample
 | 27 | JWT authentication | day-27-jwt-auth |
 | 28 | Project structure with internal packages | day-28-project-structure |
 | 29 | Testing with a fake store | day-29-testing |
+| 30 | Structured logging with slog | day-30-logging |
 
 ## Follow along
 
