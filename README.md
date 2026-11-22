@@ -60,6 +60,7 @@ Days 5 and 10 are interactive and wait for you to type. Day 15 creates a `sample
 | 29 | Testing with a fake store | day-29-testing |
 | 30 | Structured logging with slog | day-30-logging |
 | 31 | Benchmarks | day-31-benchmarks |
+| 32 | Integration tests with a real database | day-32-integration-tests |
 
 ## Follow along
 
