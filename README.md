@@ -61,6 +61,7 @@ Days 5 and 10 are interactive and wait for you to type. Day 15 creates a `sample
 | 30 | Structured logging with slog | day-30-logging |
 | 31 | Benchmarks | day-31-benchmarks |
 | 32 | Integration tests with a real database | day-32-integration-tests |
+| 33 | Production readiness: PORT, health check, graceful shutdown | day-33-production-ready |
 
 ## Follow along
 
